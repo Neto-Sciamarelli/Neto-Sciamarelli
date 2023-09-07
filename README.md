@@ -1,9 +1,7 @@
-### Olá, me chamo Antonio Carlos Sciamarelli Neto
+### Cursando Ciência da Computação
 
-- 🔭 Hoje trabalho como freelancer remoto.
-- 🌱 Atualmente estudando Java e C.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neto-sciamarelli&show_icons=true&theme=radical)
+- Universidade Presbiteriana Mackenzie
+- São Paulo (SP)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
